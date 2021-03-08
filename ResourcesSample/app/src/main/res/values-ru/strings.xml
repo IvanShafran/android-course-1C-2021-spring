@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Примеры ресурсов</string>
+    <plurals name="plurals_sample">
+        <item quantity="one">Яблоко</item>
+        <item quantity="few">Яблока</item>
+        <item quantity="many">Яблок</item>
+    </plurals>
+</resources>
