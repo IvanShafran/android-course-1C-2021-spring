@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewSample</string>
+    <string name="person_does_not_exist">Person doesn\'t exist</string>
+</resources>
