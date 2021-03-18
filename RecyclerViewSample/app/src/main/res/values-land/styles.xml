@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="RecyclerViewStyle" >
+        <item name="android:background">#333</item>
+    </style>
+
+</resources>
